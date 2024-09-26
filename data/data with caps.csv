@@ -1,0 +1,52 @@
+participant_id,mins,Fluent languages,Language categories ,Age,Age Category,Sex,Ethnicity simplified,NeurologicalOrPsychiatricDisorder,Medication,Medication_2,CorrectedVision,SleepHours,Total_CAPS_Score,Total_Distress_Score,Total_Frequency_Score,Total_distraction_level,AVG realness,Average Difficult,Average Easy,AVG_confidence_realness,AVG accuracy_overlapped,average_rt_realness ms,average_rt_realness sec,average_rt_pverlapped ms,average_rt_overlapped sec,Changes in Levels of Sensory Intensity,Having a Nonshared Sensory Experience,Inherently Unusual or Distorted Sensory Experience,Sensory Experience From an Unexplained Source,"Distortion of Form (Size, Shape) of Own Body and of External World",Verbal Hallucinations,Sensory Flooding,Thought Echo and Hearing Thoughts Out Loud,Temporal Lobe
+570816,36.1,English,monolingual,22,Young Adults,Female,White,Depression,TRUE,"Sertraline, Hydrocortisone, fludrocortisone, folic acid",No,8,9,21,16,22,1.54,1.73,1.35,3.82,90.63,3495.59,3.5,14795.56,14.8,2,1,2,2,1,0,0,0,0
+570817,15.8,"Slovak, English",bilingual,21,Young Adults,Female,Mixed,ADD/ADHD,FALSE,,Yes,8,5,12,14,14,1.53,1.79,1.27,3.98,96.88,1689,1.69,5021.5,5.02,3,0,1,1,0,0,0,0,0
+570818,18.4,"English, Spanish",bilingual,32,Mid-Adults,Female,White,None,FALSE,,No,8,1,2,2,4,1.03,1.04,1.02,3.89,85.94,1407.36,1.41,8412.31,8.41,1,0,0,0,0,0,0,0,0
+570819,30.5,"English, Lithuanian, Russian",multilingual,30,Young Adults,Male,White,None,FALSE,,No,7,6,13,9,10,1.33,1.54,1.11,3.81,93.75,2468.83,2.47,18959.66,18.96,2,0,0,2,0,0,0,0,0
+570820,22.2,English,monolingual,35,Mid-Adults,Female,White,ADD/ADHD,FALSE,,Yes,8,9,21,28,32,1.27,1.4,1.13,3.97,98.44,1935.24,1.94,6035.38,6.04,3,0,2,0,0,0,0,1,0
+570821,16.1,"English, German, Turkish",multilingual,33,Mid-Adults,Male,White,None,FALSE,,No,7,4,4,4,5,1.28,1.42,1.13,2.99,87.5,1245.03,1.25,6940.69,6.94,0,0,2,1,0,0,0,0,0
+570823,21.4,English,monolingual,86,Older Adults,Male,White,None,FALSE,,Yes,7,0,0,0,0,1.1,1.15,1.04,3.87,89.06,1423.8,1.42,8326.69,8.33,0,0,0,0,0,0,0,0,0
+570824,15.6,English,monolingual,32,Mid-Adults,Male,White,Anxiety,FALSE,,Yes,9,1,2,1,3,1.4,1.52,1.29,3.91,89.06,1470.82,1.47,4587.47,4.59,0,0,0,0,0,0,0,0,0
+570825,26.4,English,monolingual,24,Young Adults,Male,White,None,FALSE,,Yes,1,8,24,18,23,1.46,1.73,1.18,3.71,89.06,2410.93,2.41,9338.28,9.34,0,0,3,0,1,0,1,2,0
+570839,21.8,English,monolingual,39,Mid-Adults,Male,White,None,FALSE,,No,7,1,2,1,2,1.05,1.08,1.02,3.97,93.75,1470.05,1.47,10565.44,10.57,0,0,0,0,0,0,0,0,0
+570841,34.8,"English, Hindi, Urdu",multilingual,39,Mid-Adults,Male,Asian,None,FALSE,,No,6.5,1,3,2,2,1.02,1.04,1,3.99,92.19,4375.37,4.38,15959.31,15.96,1,0,0,0,0,0,0,0,0
+570842,14.3,English,monolingual,31,Mid-Adults,Female,White,Anxiety,FALSE,,No,8,1,1,1,1,1.17,1.27,1.07,3.95,89.06,1172.91,1.17,7247.72,7.25,0,0,0,1,0,0,0,0,0
+570843,38.5,"English, Serbian",bilingual,19,Young Adults,Female,White,ADD/ADHD,TRUE,Fluoxatine 20mg,Yes,6,11,37,21,50,2.01,2.44,1.57,3.2,87.5,3545.76,3.55,7159.41,7.16,1,3,3,2,1,1,0,1,0
+570844,22.4,English,monolingual,36,Mid-Adults,Female,White,Anxiety,FALSE,,Yes,8,2,6,7,6,2.05,2.35,1.75,2.9,87.5,1779.98,1.78,12601.44,12.6,2,0,0,0,0,0,0,0,0
+570845,27.1,English,monolingual,21,Young Adults,Male,DATA_EXPIRED,None,FALSE,,Yes,7,10,26,36,44,1.45,1.75,1.14,3.9,81.25,1293.49,1.29,8619.28,8.62,1,0,0,2,2,1,1,0,1
+570846,31,English,monolingual,46,Mid-Adults,Female,White,Depression,TRUE,Fluoxetine,Yes,10,3,6,7,6,1.88,2.15,1.61,3.82,85.94,4400.71,4.4,9277.41,9.28,1,0,1,1,0,0,0,1,0
+570848,17.3,English,monolingual,35,Mid-Adults,Female,White,Depression,TRUE,"mitazipine, inhalers",Yes,6,1,5,5,5,2.96,2.88,3.04,3.46,73.44,1343.27,1.34,6843.06,6.84,0,0,0,1,0,0,0,0,0
+570851,29.5,"English, Spanish",bilingual,19,Young Adults,Male,White,Other,FALSE,,No,6,5,15,8,12,1.57,1.77,1.37,3.68,92.19,2576.38,2.58,7509.97,7.51,1,1,0,1,2,1,0,0,0
+570853,35.4,English,monolingual,34,Mid-Adults,Male,Black,None,FALSE,,No,7,1,2,1,3,1.59,1.85,1.31,3.51,75,2103.14,2.1,8978.5,8.98,0,0,1,0,0,0,0,1,0
+570854,13.8,English,monolingual,41,Mid-Adults,Female,White,None,TRUE,None,No,8,2,6,2,7,1.78,2.04,1.51,4,90.63,1137.47,1.14,6471,6.47,2,0,0,0,0,0,0,0,0
+570863,14.6,English,monolingual,22,Young Adults,Female,White,Anxiety,FALSE,,No,6,1,2,3,2,1.36,1.54,1.18,3.8,82.81,1278.05,1.28,6578.88,6.58,0,0,1,0,0,0,0,1,0
+570864,26.4,"English, Scots",bilingual,57,Older Adults,Male,White,None,FALSE,,No,8,2,2,2,3,1.6,1.67,1.52,3.74,85.94,2750.83,2.75,12498.28,12.5,1,0,0,0,0,0,0,0,0
+570865,21.4,English,monolingual,56,Older Adults,Female,White,Depression,TRUE,Levothyroxine,No,4,3,6,9,7,1.13,1.19,1.07,3.95,89.06,1159.15,1.16,8043.09,8.04,0,1,1,1,0,0,0,1,0
+570866,17.3,"Scots, English",bilingual,31,Mid-Adults,Male,White,ADD/ADHD,FALSE,,No,7,4,9,10,12,1.9,2.29,1.51,3.87,85.94,1970.32,1.97,4307.06,4.31,1,0,0,2,0,0,0,0,0
+570867,26.5,English,monolingual,54,Older Adults,Female,White,None,FALSE,,Yes,5,0,0,0,0,1.37,1.63,1.11,3.86,87.5,2114.64,2.11,10976.66,10.98,0,0,0,0,0,0,0,0,0
+570868,28.5,"English, Urdu",bilingual,31,Mid-Adults,Female,Asian,None,FALSE,,No,6,0,0,0,0,1.44,1.65,1.22,4,89.06,2072.83,2.07,13446.38,13.45,0,0,0,0,0,0,0,0,0
+570870,27.2,English,monolingual,55,Older Adults,Male,White,None,TRUE,CoCodomol,Yes,6.5,5,13,12,16,1.44,1.69,1.18,3.83,89.06,2100.73,2.1,10473.03,10.47,0,0,2,0,1,0,1,2,0
+570871,30.2,English,monolingual,35,Mid-Adults,Male,Black,None,FALSE,,No,6,3,7,7,7,1.46,1.81,1.09,3.9,87.5,1709.4,1.71,18692.41,18.69,0,0,2,1,0,0,0,1,0
+570872,24.8,English,monolingual,29,Young Adults,Female,White,None,FALSE,,Yes,7,17,55,30,41,2.56,2.67,2.46,2.59,85.94,2130.57,2.13,9693.63,9.69,4,2,2,4,2,2,0,2,1
+570878,52.9,English,monolingual,36,Mid-Adults,Male,White,None,FALSE,,Yes,8,4,12,8,13,1.13,1.25,1,3.95,84.38,4867.57,4.87,14713.69,14.71,0,1,0,2,0,0,0,0,0
+570888,32.4,English,monolingual,32,Mid-Adults,Male,White,None,FALSE,,Yes,7.5,4,9,8,13,2.17,2.5,1.83,3.89,92.19,8015.61,8.02,5398.03,5.4,1,1,0,1,0,0,0,0,0
+570889,94.1,"Chinese, English",bilingual,30,Young Adults,Male,Asian,None,FALSE,,Yes,7,4,9,8,8,1.41,1.54,1.29,2.99,81.25,968.74,0.97,84504.53,84.5,0,1,0,1,0,1,0,0,0
+570890,16.5,"Bengali, English",bilingual,20,Young Adults,Male,Asian,None,FALSE,,No,10,1,5,1,1,1.41,1.75,1.07,3.97,85.94,1324.52,1.32,6620.34,6.62,0,0,0,1,0,0,0,0,0
+570891,15.6,English,monolingual,21,Young Adults,Female,White,Depression,FALSE,,Yes,9,11,16,20,22,1.09,1.06,1.11,4,89.06,1084.19,1.08,6317.03,6.32,2,1,2,3,0,2,1,2,0
+570892,13.8,English,monolingual,25,Young Adults,Female,White,Eating disorder,FALSE,,Yes,7,1,3,4,3,1.77,2.06,1.46,3.97,85.94,1501.8,1.5,3967.78,3.97,1,0,0,0,0,0,0,0,0
+570893,12.6,English,monolingual,42,Mid-Adults,Female,White,Anxiety,FALSE,,Yes,7,0,0,0,0,1.06,1.08,1.04,3.96,90.63,973.07,0.97,4634.72,4.63,0,0,0,0,0,0,0,0,0
+570896,19.4,English,monolingual,39,Mid-Adults,Female,White,Eating disorder,FALSE,,Yes,7,3,8,14,10,1.18,1.33,1.03,3.98,92.19,1286.6,1.29,4837.28,4.84,2,0,0,0,0,0,0,1,0
+570897,22.3,"English, Urdu, German",multilingual,25,Young Adults,Male,Asian,Anxiety,FALSE,,No,7,0,0,0,0,1.31,1.54,1.07,3.97,82.81,1201.03,1.2,7145.28,7.15,0,0,0,0,0,0,0,0,0
+570899,44.1,English,monolingual,36,Mid-Adults,Male,Black,None,FALSE,none,No,8,8,8,15,14,1.39,1.54,1.24,1.37,82.81,2475.52,2.48,25808.84,25.81,1,1,2,1,2,0,0,1,0
+570956,23.4,English,monolingual,39,Mid-Adults,Male,Other,Anxiety,FALSE,,No,5,2,5,3,8,1.28,1.46,1.09,3.78,95.31,2535.35,2.54,8658.97,8.66,0,0,1,1,0,0,0,1,0
+570957,20.4,English,monolingual,52,Older Adults,Male,White,None,FALSE,,No,8,0,0,0,0,1.11,1.19,1.02,3.82,84.38,1620.84,1.62,8895.16,8.9,0,0,0,0,0,0,0,0,0
+570958,28.7,English,monolingual,59,Older Adults,Male,White,None,TRUE,"Gaviscon, Fexofenadine and Dymista",Yes,6.5,7,19,13,21,1.22,1.4,1.05,3.85,93.75,2628.55,2.63,11232.69,11.23,1,1,1,1,0,1,0,1,0
+570959,37.4,English,monolingual,52,Older Adults,Male,White,Depression,TRUE,"Mirtazapine, Fluoxetine, Amlodipine, Pantaprozole, Atorvastatin",No,8,8,22,17,21,1.13,1.17,1.09,3.91,95.31,3209.73,3.21,17107.06,17.11,2,0,2,3,0,0,0,0,0
+570961,20.7,English,monolingual,27,Young Adults,Male,White,None,FALSE,,Yes,8,4,7,7,14,1.27,1.44,1.09,3.95,87.5,1760.91,1.76,8819.63,8.82,0,0,0,2,0,0,0,0,0
+570962,27.1,English,monolingual,61,Older Adults,Female,White,None,FALSE,,Yes,7,1,2,2,3,1.27,1.46,1.07,2.5,85.94,2679.61,2.68,8503.19,8.5,0,0,0,1,0,0,0,0,0
+570963,18.8,English,monolingual,36,Mid-Adults,Female,White,None,FALSE,,No,6,0,0,0,0,1.06,1.13,1,4,90.63,1110.62,1.11,7999.72,8,0,0,0,0,0,0,0,0,0
+570969,34.5,English,monolingual,47,Mid-Adults,Female,White,Anxiety,TRUE,"HRT, Pregabalin",Yes,6,12,23,40,36,1.31,1.54,1.07,3.63,95.31,2803.24,2.8,9807.63,9.81,2,1,1,1,2,0,1,2,1
+570970,26.1,English,monolingual,28,Young Adults,Female,White,Anxiety,FALSE,,No,8,1,2,2,1,1.18,1.29,1.07,4,82.81,1872.33,1.87,8735.09,8.74,1,0,0,0,0,0,0,0,0
+570976,28.9,"English, Hindi",bilingual,31,Mid-Adults,Male,Asian,None,FALSE,,Yes,8,0,0,0,0,1.41,1.56,1.26,3.69,93.75,1327.94,1.33,8244.94,8.24,0,0,0,0,0,0,0,0,0
+570977,17.3,English,monolingual,30,Young Adults,Female,Asian,None,FALSE,,Yes,8,0,0,0,0,1.09,1.1,1.07,3.9,93.75,1207.94,1.21,7807.25,7.81,0,0,0,0,0,0,0,0,0
+570981,17.9,English,monolingual,29,Young Adults,Female,White,Depression,TRUE,Fluoxetine,Yes,4,15,40,34,57,1.39,1.52,1.26,3.73,90.63,1468.72,1.47,6480,6.48,1,3,1,4,3,2,0,0,0
